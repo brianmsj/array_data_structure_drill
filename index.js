@@ -58,3 +58,6 @@ class Array {
   }
 }
 Array.SIZE_RATIO = 3;
+
+// let arr = new Array();
+// arr.push('Brian')
